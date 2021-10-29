@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Klozz github stats](https://github-readme-stats.vercel.app/api?username=klozz&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true)
-![Klozz github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klozz&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&layout=compact)
+![Klozz github stats](https://github-readme-stats.vercel.app/api?username=klozz&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&layout=compact)      ![Klozz github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klozz&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&layout=compact)
+
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=klozz&theme=radical&title=MultiLanguage,Organizations,Repositories,Stars,Commit,PullRequest)](https://github.com/klozz/klozz)
