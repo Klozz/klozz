@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Klozz github stats](https://github-readme-stats.vercel.app/api?username=klozz&show_icons=true&theme=monokai&count_private=true&show_owner=true&include_all_commits=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=klozz&theme=radical&title=MultiLanguage,Organizations,Repositories,Stars,Commit,PullRequest)](https://github.com/klozz/github-profile-trophy)
