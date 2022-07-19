@@ -28,6 +28,9 @@ I'm Carlos 'klozz' Jesus</br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" title="Java" alt="aarch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/develop/icons/jekyll/jekyll-original-wordmark.svg" title="jekyll" alt="jekyll" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/develop/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/windows8/windows8-original.svg" title="winbugs" alt="winbugs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/archlinux/archlinux-original-wordmark.svg" title="archlinux" alt="archlinux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
 ---
