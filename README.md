@@ -9,7 +9,7 @@ I'm Carlos 'klozz' Jesus</br>
 ### :man_technologist: About Me :
 - :electron: I’m a Android and kernel developer by hobby.
 - 🔭 I’m currently working on <b>Yuki ユキ</b> kernel and clang (based on LLVM)
-- :iphone:  Currently supported devices <b>Mi 11 Lite 5G NE, Redmi Note 9PRO, Mi 9T, POCO X3 PRO </b>
+- :iphone:  Currently supported devices <b>Mi 11 Lite 5G NE,Xiaomi 12T Pro, POCO F5 PRO, Redmi Note 7 </b>
 - ⚡ I like to optimize and automate things.
 - :zzz: Im lazy af
 
