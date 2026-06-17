@@ -10,7 +10,7 @@ I'm Carlos 'klozz' Jesus</br>
 - :electron: I’m a Android and kernel developer by hobby.
 - 🔭 I’m currently working on <b>Yuki ユキ</b> kernel and clang (based on LLVM), Also i have my OWN Custom rom called (The XPerience Project) based on CLO (CodeAuroraForum previously)
 - 🌠 founded the xperience project in December 2011.
-- :iphone:  Currently supported devices <b>Mi 11 Lite 5G NE,POCO X5 Pro,Xiaomi 12T Pro,OnePlus 12, Motorola Edge 30 Fusion </b>
+- :iphone:  Currently supported devices <b>POCO X5 Pro,Xiaomi 12T Pro,OnePlus 12, OnePlus 13 </b>
 - ⚡ I like to optimize and automate things.
 - :zzz: Im lazy af
 
